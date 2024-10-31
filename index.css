@@ -1,0 +1,11 @@
+img {
+  width: 180px;
+  border-radius: 10px;
+}
+body {
+  background-color: azure;
+}
+p {
+  font-style: italic;
+  font-weight: bold;
+}
